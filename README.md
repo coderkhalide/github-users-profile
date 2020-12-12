@@ -20,8 +20,8 @@ A fetch request is shown below:
 ```javascript
 fetch(URL,  init:{method: 'GET', headers:{},  body})
     .then(response => response.json())
-		.then(data => console.log(data))
-		.catch(error => console.log(error));
+    .then(data => console.log(data))
+    .catch(error => console.log(error));
 // URL - Url of the resource
 // Headers - Headers for the request( Content-Type, ...)
 // Body - Request content
@@ -33,9 +33,9 @@ Applying all the knowledge so far, you can make a request to the GitHub **/users
 
 ```javascript
 fetch('https://api.github.com/users/{YOUR_USERNAME}')
-	.then(response => response.json()) //Converting the response to a JSON object
-	.then( data => console.log(data)) // Now you will be able to see the data on you browser console
-	.catch( error => console.error(error));
+    .then(response => response.json()) //Converting the response to a JSON object
+    .then( data => console.log(data)) // Now you will be able to see the data on you browser console
+    .catch( error => console.error(error));
 ```
 
 ## Live Demo
