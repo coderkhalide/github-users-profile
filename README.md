@@ -40,7 +40,7 @@ fetch('https://api.github.com/users/{YOUR_USERNAME}')
 
 ## Live Demo
 
-[Demo](https://coderkhalide.github.io/github-user-api/)
+[Live Demo](https://coderkhalide.github.io/github-users-profile/)
 
 ## Follow me
 
