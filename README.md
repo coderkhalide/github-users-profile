@@ -46,5 +46,5 @@ fetch('https://api.github.com/users/{YOUR_USERNAME}')
 
 My Company Website [KS Devware](https://ksdevware.com/)
 
-[Facebook](https://www.facebook.com/coderkhalid) [Tweeter](https://twitter.com/coderkhalid) [Instagram](https://www.instagram.com/coderkhalid/) [Linkdin](https://www.linkedin.com/in/coderkhalid/)
+[Facebook](https://www.facebook.com/coderkhalid) [Twitter](https://twitter.com/coderkhalid) [Instagram](https://www.instagram.com/coderkhalid/) [Linkdin](https://www.linkedin.com/in/coderkhalid/)
 
